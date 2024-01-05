@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aguilerasmiguel
-- 👀 I’m interested in bugbounty, coding and chess
-- 🌱 I’m currently learning advanced math
-- 💞️ I’m looking to collaborate on projects that involve bugbounty and AI
+- 👀 I’m interested in malware analysis, bugbounty, coding and chess
+- 🌱 I’m currently learning math and other interesting things. 
+- 💞️ I’m looking to collaborate on projects that involve cibersecurity, AI. 
 - 📫 How to reach me ...
 
 <!---
